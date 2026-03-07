@@ -1,4 +1,4 @@
 # calculator_project
-This is my first repository
+<h1>This is my first repository</h1>
 <br>
-Author:Rohan panigrahi and subham
+<h2>Author:Rohan panigrahi</h2> 
