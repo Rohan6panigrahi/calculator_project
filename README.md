@@ -1,5 +1,5 @@
 # calculator_project
-<body bgcolor="pink">
+<body bgcolor="yellow">
 <h2>This is my first repository</h2>
 <br>
 <h3>Author:Rohan panigrahi</h3> 
